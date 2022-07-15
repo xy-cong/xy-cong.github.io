@@ -19,7 +19,7 @@ redirect_from:
 
 My name is Qisen Yang(杨淇森). I entered [Turing Class](http://www.cs.zju.edu.cn/turingclass_en)( Chu Kochen Honors College ), Zhejiang University in 2019. I am now an undergraduate student at College of Computer Science & Technology, Zhejiang University. Currently I am supervised by [Prof. Yingcai Wu](http://www.ycwu.org) at [ZJUIDG](zjuidg.org). My research interests include Visualization and Human-Computer Interaction.
 
-I'm looking for PhD position at 2023fall, you can find my [CV](https://github.com/QS-Yang/QS-Yang.github.io/blob/main/docs/CV.pdf) here.
+I'm looking for PhD position at 2023fall, you can find my [CV](https://github.com/QS-Yang/QS-Yang.github.io/raw/main/docs/CV.pdf) here.
 
 # 📖 Educations
 

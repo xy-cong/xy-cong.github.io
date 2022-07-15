@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : 
   email            : "qs_yang@zju.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -57,6 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  CV               : "docs/CV.pdf"
 
 
 # Reading Files
