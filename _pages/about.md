@@ -27,7 +27,7 @@ I'm looking for PhD position at 2023fall, you can find my [CV](https://github.co
 
 
 # 🔥 News
-- *2022.07*: &nbsp;🎉🎉 One paper about visualization in argument sport video was accepted by IEEE VIS 2022. My first co-authored paper!
+- *2022.07*: &nbsp;🎉🎉 One paper about visualization in argument sports video was accepted by IEEE VIS 2022. My first co-authored paper!
 
 # 💻 Research Experience
 - *2022.06 - 2022.10* **Undergradute Visiting Research Intern, VisLab, HKUST**
