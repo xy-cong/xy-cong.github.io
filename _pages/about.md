@@ -27,7 +27,7 @@ I'm looking for PhD position at 2023fall, you can find my [CV](https://github.co
 
 
 # 🔥 News
-- *2022.06*: &nbsp;🎉🎉 One paper about visualization in argument sport video was conditionally accepted at IEEE VIS 2022
+- *2022.07*: &nbsp;🎉🎉 One paper about visualization in argument sport video was accepted by IEEE VIS 2022. My first co-authored paper!
 
 # 💻 Research Experience
 - *2022.06 - 2022.10* **Undergradute Visiting Research Intern, VisLab, HKUST**
@@ -55,7 +55,7 @@ I'm looking for PhD position at 2023fall, you can find my [CV](https://github.co
 </div>
 </div> -->
 
-- Sporthesia: Augmenting Sports Videos Using Natural Language(**Conditional Accepted**) 
+- Sporthesia: Augmenting Sports Videos Using Natural Language 
 
   Zhutian Chen, **<u>Qisen Yang</u>**, Xiao Xie, Johanna Beyer, Haijun Xia, Yingcai Wu, and Hanspeter Pfister, **VIS 2022**
 
