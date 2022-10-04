@@ -30,7 +30,7 @@ I'm looking for PhD position at 2023fall, you can find my [CV](https://github.co
 - *2022.07*: &nbsp;🎉🎉 One paper about visualization in argument sports video was accepted by IEEE VIS 2022. My first co-authored paper!
 
 # 💻 Research Experience
-- *2022.08 - present* **Undergradute Visiting Research Intern, VisLab, HKUST**
+- *2022.06 - present* **Undergradute Visiting Research Intern, VisLab, HKUST**
 
    Advised by Prof. [Huamin Qu](http://huamin.org/). I will work with [Yifang Wang](http://wangyifang.top/about/) to find some interesting interactions between VIS and social computing, especially on U.S. voting history.
 
