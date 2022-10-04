@@ -36,7 +36,7 @@ I'm looking for PhD position at 2023fall, you can find my [CV](https://github.co
 
 - *2022.01 - 2022.09*  **Research Intern, VCG, SEAS@Harvard**
 
-   Lead by [Hanspeter Pfister](https://vcg.seas.harvard.edu/people), I first work with [Zhutian Chen](chenzhutian.org) on exploring how to leverage commentary to create augmented sports videos, which is the future work of [“Augmenting Sports Videos with VisCommentator”](https://viscommentator.github.io). And then we try to find ways to help casual fans better understand basketball games using gaze-moderated embedded visualization.
+   Lead by [Hanspeter Pfister](https://vcg.seas.harvard.edu/people), I first work with [Zhutian Chen](https://chenzhutian.org) on exploring how to leverage commentary to create augmented sports videos, which is the future work of [“Augmenting Sports Videos with VisCommentator”](https://viscommentator.github.io). And then we try to find ways to help casual fans better understand basketball games using gaze-moderated embedded visualization.
 
 - *2021.04 - 2022.05*  **Student Research Training Project**, **Zhejiang University**      
    Advised by [Prof. Yingcai Wu](http://www.ycwu.org) at [ZJUIDG](zjuidg.org), we focus on “Tac-Pair: visual analytics of anticipation skills for players”, and developed a system: AnticiViz, using visualization tools to help sports and trainers better understand anticipation behavior of sports.
