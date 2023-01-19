@@ -27,6 +27,7 @@ I'm looking for PhD position at 2023fall, you can find my [CV](https://github.co
 
 
 # 🔥 News
+- *2023.01*: &nbsp;🎉🎉 One paper about gaze-moderated visualization on augmenting sports video was accepted by CHI 2023. We will open source later!
 - *2022.07*: &nbsp;🎉🎉 One paper about visualization in argument sports video was accepted by IEEE VIS 2022. My first co-authored paper!
 
 # 💻 Research Experience
@@ -55,9 +56,9 @@ I'm looking for PhD position at 2023fall, you can find my [CV](https://github.co
 </div>
 </div> -->
 
-- **(Under Review)**“Game-watching System with Gaze-moderated Embedded Visualizations”
+- **(Conditional Accepted)**iBall: Augmenting Basketball Videos with Gaze-moderated Embedded Visualizations
 
-  Anonymous Authors, **CHI 2023**
+  Zhutian Chen, **<u>Qisen Yang</u>**, Jiarui Shan, Tica Lin, Johanna Beyer, Haijun Xia, and Hanspeter Pfister, **CHI 2023**
 
 - Sporthesia: Augmenting Sports Videos Using Natural Language 
 
