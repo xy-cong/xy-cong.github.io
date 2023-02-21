@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qisen's Page"
-description              : "Undergraduate from Zhejiang University. Focus on visualization, human-computer interaction. "
-repository               : "QS-Yang/QS-Yang.github.io"
+title                    : "Xiaoyan's Page"
+description              : "Undergraduate from Zhejiang University. Focus on 3D/2D Computer Vision, Robotics."
+repository               : "xy-cong/xy-cong.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qisen Yang"
+  name             : "Xiaoyan Cong"
   avatar           : "images/self-photo.jpg"
   bio              : "Zhejiang University"
   location         : "Hangzhou, Zhejiang, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "qs_yang@zju.edu.cn"
+  email            : "rccxy28@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "QS-Yang"
+  github           : "xy-cong"
   google_plus      :
   keybase          :
   instagram        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "QisenY"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

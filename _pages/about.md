@@ -17,30 +17,32 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Qisen Yang(杨淇森). I entered [Turing Class](http://www.cs.zju.edu.cn/turingclass_en)( Chu Kochen Honors College ), Zhejiang University in 2019. I am now an undergraduate student at College of Computer Science & Technology, Zhejiang University. Currently I am supervised by [Prof. Yingcai Wu](http://www.ycwu.org) at [ZJUIDG](zjuidg.org). My research interests include Visualization and Human-Computer Interaction, especially how to use visualization techniques to facilitate the process of data fetching and data analysis.
+My name is Xiaoyan Cong(丛箫言). I am now an undergraduate student at Chu Kochen Honors College & College of Control Science and Engineering, Zhejiang University, majoring in Robotics Engineering. Currently I am supervised by [Prof. Xiaowei Zhou](http://xzhou.me/) at [State Key Laboratory of CAD&CG](http://www.cad.zju.edu.cn/index.html). My research interests lie in the field of 3D&2D Computer Vision and Robotics, particularly including 3D reconstruction, scene understanding, as well as expanding robots' physical interaction capabilities.
 
-I'm looking for PhD position at 2023fall, you can find my [CV](https://github.com/QS-Yang/QS-Yang.github.io/raw/main/docs/CV.pdf) here.
+I'm looking for PhD position at 2024fall, you can find my [CV](https://github.com/xy-cong/xy-cong.github.io/raw/main/docs/CV.pdf) here.
 
 # 📖 Educations
 
-- *2019.08 - 2023.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou. 
+- *2020.09 - 2024.06*, Undergraduate, Chu Kochen Honors College & College of Control Science and Engineering, Zhejiang Univeristy, Hangzhou. 
 
 
 # 🔥 News
-- *2023.01*: &nbsp;🎉🎉 One paper about gaze-moderated visualization on augmenting sports video was accepted by CHI 2023. We will open source later!
-- *2022.07*: &nbsp;🎉🎉 One paper about visualization in argument sports video was accepted by IEEE VIS 2022. My first co-authored paper!
+- *2023.02*: I'm looking for Summer Research Internship qwq.
 
 # 💻 Research Experience
-- *2022.06 - present* **Undergradute Visiting Research Intern, VisLab, HKUST**
+- *2022.10 - present* **Undergradute Research Intern, CAD&CG, ZJU**
 
-   Advised by Prof. [Huamin Qu](http://huamin.org/). I will work with [Yifang Wang](http://wangyifang.top/about/) to find some interesting interactions between VIS and social computing, especially on U.S. voting history.
+   Advisor: [Prof. Xiaowei Zhou](http://xzhou.me/)
+   Working with [Sida Peng](https://pengsida.net/) and [Bojian Wu](https://bojianwu.github.io/), I am exploring how to generate high-quality novel view images of refractive and reflective objects with the aid of polarization, and how to accurately reconstruct the geometry and appearance of glossy and specular objects on the gound of neural implicit 3D representations and differentiable rendering.
 
-- *2022.01 - 2022.09*  **Research Intern, VCG, SEAS@Harvard**
+- *2021.06 - 2022.06*  **Deep Scientific Research Training Program, Chu Kochen Honors College, ZJU**  
 
-   Lead by [Hanspeter Pfister](https://vcg.seas.harvard.edu/people), I first work with [Zhutian Chen](https://chenzhutian.org) on exploring how to leverage commentary to create augmented sports videos, which is the future work of [“Augmenting Sports Videos with VisCommentator”](https://viscommentator.github.io). And then we try to find ways to help casual fans better understand basketball games using gaze-moderated embedded visualization.
+   Advisor: [Prof. Rong Xiong](https://www.researchgate.net/profile/Rong-Xiong) & [Prof. Yue Wang](https://ywang-zju.github.io/)
+   I have finished the Deep Scientific Research Training Program of Chu Kochen Honors College on “Detection and Tracking of Millimeter Wave Radar”, which is awarded as excellent ( 10 in total ). The project focused on exploring how to combine vision sensors(RGB camera) and millimeter-wave radars to increase the accuracy of object detection and 
 
-- *2021.04 - 2022.05*  **Student Research Training Project**, **Zhejiang University**      
-   Advised by [Prof. Yingcai Wu](http://www.ycwu.org) at [ZJUIDG](zjuidg.org), we focus on “Tac-Pair: visual analytics of anticipation skills for players”, and developed a system: AnticiViz, using visualization tools to help sports and trainers better understand anticipation behavior of sports.
+- *2022.06 - present*  **Student Research Training Project, ZJU**      
+   Advisor: [Prof. Wei Jiang](https://person.zju.edu.cn/en/jiangwei)
+   I am participating in a Student Research Training Program(SRTP) on “Cross-domain performance evaluation method of pedestrian re-identification model based on model parameter distribution”, focusing on exploring the relationship between data domain(original & target) and model parameters, realizing online evaluation of model performance, and laying a foundation for further online model update.
 
 # 📝 Publications 
 
@@ -56,25 +58,23 @@ I'm looking for PhD position at 2023fall, you can find my [CV](https://github.co
 </div>
 </div> -->
 
-- **(Conditional Accepted)**iBall: Augmenting Basketball Videos with Gaze-moderated Embedded Visualizations
 
-  Zhutian Chen, **<u>Qisen Yang</u>**, Jiarui Shan, Tica Lin, Johanna Beyer, Haijun Xia, and Hanspeter Pfister, **CHI 2023**
+- **Hard-working...qwq**
 
-- Sporthesia: Augmenting Sports Videos Using Natural Language 
+<!-- - Sporthesia: Augmenting Sports Videos Using Natural Language 
 
-  Zhutian Chen, **<u>Qisen Yang</u>**, Xiao Xie, Johanna Beyer, Haijun Xia, Yingcai Wu, and Hanspeter Pfister, **VIS 2022**
+  Zhutian Chen, **<u>Qisen Yang</u>**, Xiao Xie, Johanna Beyer, Haijun Xia, Yingcai Wu, and Hanspeter Pfister, **VIS 2022** -->
 
 # 🎖 Honors and Awards
-- "Campus Star" of College of Computer Science and Technology (10 out of ~500)
-- 2020-2021 Zhejiang Provincial Government Scholarship
-- Second-prize Scholarship of Zhejiang University(for 2 consecutive years)
-- Leading Scholarship of Chu KoChen Honors College(for 2 consecutive years)
-- 2021 MCM/ICM Honorable Mention
+- 2020-2021 China National Scholarship
+- First-prize Scholarship of Zhejiang University(for 2 consecutive years)
+- 2021-2022 Zhejiang Provincial Government Scholarship
+- 2020-2021 Leading Scholarship of Chu KoChen Honors College
+- 2021-2022 Excellence Scholarship of Chu KoChen Honors College(Top in College)
 
 # 🏢Campus Experience
 
-- *2021-present* Associate counsellor, College of Computer Science and Technology
-
-- *2020-2021* President of Chu KoChen College Student Union
+- *2021-2022* Head of Academic and Development Innovation Department of Chu KoChen College Student Union
+- *2022-present* Member of Go Team of Zhejiang University
 
   
