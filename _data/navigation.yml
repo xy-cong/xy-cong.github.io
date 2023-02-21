@@ -10,7 +10,7 @@ main:
     url: "/#-news"
 
   - title: "Research Experience"
-    url: "/#-Research-Experience"
+    url: "/#-research-experience"
 
   - title: "Publications"
     url: "/#-publications"
@@ -19,6 +19,6 @@ main:
     url: "/#-honors-and-awards"
 
   - title: "Campus Experience"
-    url: "/#-Campus-Experience"
+    url: "/#-campus-experience"
 
   
