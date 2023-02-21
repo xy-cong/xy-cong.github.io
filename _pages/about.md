@@ -59,7 +59,8 @@ I'm looking for PhD position at 2024fall, you can find my [CV](https://github.co
 </div> -->
 
 
-- **Hard-working...qwq**
+<!-- - **Hard-working...qwq** -->
+- **To be ...**
 
 <!-- - Sporthesia: Augmenting Sports Videos Using Natural Language 
 
