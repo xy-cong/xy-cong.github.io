@@ -32,16 +32,16 @@ I'm looking for PhD position at 2024fall, you can find my [CV](https://github.co
 # 💻 Research Experience
 - *2022.10 - present* **Undergradute Research Intern, CAD&CG, ZJU**
 
-   Advisor: [Prof. Xiaowei Zhou](http://xzhou.me/) \\
+   Advisor: [Prof. Xiaowei Zhou](http://xzhou.me/).
    Working with [Sida Peng](https://pengsida.net/) and [Bojian Wu](https://bojianwu.github.io/), I am exploring how to generate high-quality novel view images of refractive and reflective objects with the aid of polarization, and how to accurately reconstruct the geometry and appearance of glossy and specular objects on the gound of neural implicit 3D representations and differentiable rendering.
 
 - *2021.06 - 2022.06*  **Deep Scientific Research Training Program, Chu Kochen Honors College, ZJU**  
 
-   Advisor: [Prof. Rong Xiong](https://www.researchgate.net/profile/Rong-Xiong) & [Prof. Yue Wang](https://ywang-zju.github.io/) \\ 
+   Advisor: [Prof. Rong Xiong](https://www.researchgate.net/profile/Rong-Xiong) & [Prof. Yue Wang](https://ywang-zju.github.io/). 
    I have finished the Deep Scientific Research Training Program of Chu Kochen Honors College on “Detection and Tracking of Millimeter Wave Radar”, which is awarded as excellent ( 10 in total ). The project focused on exploring how to combine vision sensors(RGB camera) and millimeter-wave radars to increase the accuracy of object detection and 
 
 - *2022.06 - present*  **Student Research Training Project, ZJU**      
-   Advisor: [Prof. Wei Jiang](https://person.zju.edu.cn/en/jiangwei) \\
+   Advisor: [Prof. Wei Jiang](https://person.zju.edu.cn/en/jiangwei). 
    I am participating in a Student Research Training Program(SRTP) on “Cross-domain performance evaluation method of pedestrian re-identification model based on model parameter distribution”, focusing on exploring the relationship between data domain(original & target) and model parameters, realizing online evaluation of model performance, and laying a foundation for further online model update.
 
 # 📝 Publications 
