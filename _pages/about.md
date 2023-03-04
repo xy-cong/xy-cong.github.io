@@ -38,7 +38,7 @@ I'm looking for PhD position at 2024fall, you can find my [CV](https://github.co
 - *2021.06 - 2022.06*  **Deep Scientific Research Training Program, Chu Kochen Honors College, ZJU**  
 
    Advisor: [Prof. Rong Xiong](https://www.researchgate.net/profile/Rong-Xiong) & [Prof. Yue Wang](https://ywang-zju.github.io/). 
-   I have finished the Deep Scientific Research Training Program of Chu Kochen Honors College on “Detection and Tracking of Millimeter Wave Radar”, which is awarded as excellent ( 10 in total ). The project focused on exploring how to combine vision sensors(RGB camera) and millimeter-wave radars to increase the accuracy of object detection and 
+   I have finished the Deep Scientific Research Training Program of Chu Kochen Honors College on “Detection and Tracking of Millimeter Wave Radar”, which is awarded as excellent ( 10 in total ). The project focused on exploring how to combine vision sensors(RGB camera) and millimeter-wave radars to increase the accuracy of object detection. 
 
 - *2022.06 - present*  **Student Research Training Project, ZJU**      
    Advisor: [Prof. Wei Jiang](https://person.zju.edu.cn/en/jiangwei). 
