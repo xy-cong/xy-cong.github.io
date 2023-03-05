@@ -24,6 +24,7 @@ I'm looking for PhD position at 2024fall, you can find my [CV](https://github.co
 # 📖 Educations
 
 - *2020.09 - 2024.06*, Undergraduate, Chu Kochen Honors College & College of Control Science and Engineering, Zhejiang Univeristy, Hangzhou. 
+- *2023.02 - 2023.06*, Undergraduate Exchange Student, School of Engineering, The Hong Kong University of Science and Technology, Hong Kong. 
 
 
 # 🔥 News
@@ -33,7 +34,7 @@ I'm looking for PhD position at 2024fall, you can find my [CV](https://github.co
 - *2022.10 - present* **Undergradute Research Intern, CAD&CG, ZJU**
 
    Advisor: [Prof. Xiaowei Zhou](http://xzhou.me/).
-   Guided by [Sida Peng](https://pengsida.net/) and [Bojian Wu](https://bojianwu.github.io/), I am exploring how to generate high-quality novel view images of refractive and reflective objects with the aid of polarization, and how to accurately reconstruct the geometry and appearance of glossy and specular objects on the gound of neural implicit 3D representations and differentiable rendering.
+   Guided by [Sida Peng](https://pengsida.net/) and [Bojian Wu](https://bojianwu.github.io/), I am exploring how to generate high-quality novel view images of refractive and reflective objects with the aid of polarization, and how to accurately reconstruct the geometry and reproduce the appearance of glossy and specular objects on the gound of neural implicit 3D representations and differentiable rendering.
 
 - *2021.06 - 2022.06*  **Deep Scientific Research Training Program, Chu Kochen Honors College, ZJU**  
 
@@ -42,7 +43,7 @@ I'm looking for PhD position at 2024fall, you can find my [CV](https://github.co
 
 - *2022.06 - present*  **Student Research Training Project, ZJU**      
    Advisor: [Prof. Wei Jiang](https://person.zju.edu.cn/en/jiangwei). 
-   I am participating in a Student Research Training Program(SRTP) on “Cross-domain performance evaluation method of pedestrian re-identification model based on model parameter distribution”, focusing on exploring the relationship between data domain(original & target) and model parameters, realizing online evaluation of model performance, and laying a foundation for further online model update.
+   I am participating in a Student Research Training Program(SRTP) on “Cross-domain performance evaluation method of pedestrian re-identification model based on model parameter distribution”, focusing on exploring the relationship between data domain(original & target) and model parameters, realizing online evaluation of model performance, and laying a foundation for the further online model update.
 
 # 📝 Publications 
 
