@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Xiaoyan Cong(丛箫言). I am now an undergraduate student at Chu Kochen Honors College & College of Control Science and Engineering, Zhejiang University, majoring in Robotics Engineering. Currently I am supervised by [Prof. Xiaowei Zhou](http://xzhou.me/) at [State Key Laboratory of CAD&CG](http://www.cad.zju.edu.cn/index.html). My research interests lie in the field of 3D \& 2D Computer Vision and Robotics, particularly including 3D reconstruction, scene understanding, as well as expanding robots' physical interaction capabilities.
+My name is Xiaoyan Cong(丛箫言). I am now an undergraduate student at Chu Kochen Honors College & College of Control Science and Engineering, Zhejiang University, majoring in Robotics Engineering. Currently I am supervised by [Prof. Xiaowei Zhou](http://xzhou.me/) at [State Key Laboratory of CAD&CG](http://www.cad.zju.edu.cn/index.html). My research interests lie in the field of 3D & 2D Computer Vision and Robotics, particularly including 3D reconstruction, scene understanding, as well as expanding robots' physical interaction capabilities.
 
 I'm looking for PhD position at 2024fall, you can find my [CV](https://github.com/xy-cong/xy-cong.github.io/raw/main/docs/CV.pdf) here.
 
