@@ -73,6 +73,7 @@ I'm looking for PhD position at 2024fall, you can find my [CV](https://github.co
 - 2021-2022 Zhejiang Provincial Government Scholarship
 - 2020-2021 Leading Scholarship of Chu KoChen Honors College
 - 2021-2022 Excellence Scholarship of Chu KoChen Honors College(Top in College)
+- 2021-2022 Phoenix Special Scholarship
 
 # 🏢Campus Experience
 
