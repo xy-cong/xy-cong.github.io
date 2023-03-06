@@ -34,7 +34,7 @@ I'm looking for PhD position at 2024fall, you can find my [CV](https://github.co
 - *2022.10 - present* **Undergradute Research Intern, CAD&CG, ZJU**
 
    Advisor: [Prof. Xiaowei Zhou](http://xzhou.me/).
-   Guided by [Sida Peng](https://pengsida.net/) and [Bojian Wu](https://bojianwu.github.io/), I am exploring how to generate high-quality novel view images of refractive and reflective objects with the aid of polarization, and how to accurately reconstruct the geometry and reproduce the appearance of glossy and specular objects on the gound of neural implicit 3D representations and differentiable rendering.
+   Guided by [Sida Peng](https://pengsida.net/) and [Bojian Wu](https://bojianwu.github.io/), I am exploring how to generate high-quality novel view images of refractive and reflective objects(e.g. transparent objects) by making use of neural implicit 3D representations and differentiable rendering, and how to accurately reconstruct the geometry and reproduce the appearance of glossy and specular objects in a scene with the aid of polarization.
 
 - *2021.06 - 2022.06*  **Deep Scientific Research Training Program, Chu Kochen Honors College, ZJU**  
 
