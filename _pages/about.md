@@ -34,7 +34,7 @@ I'm looking for PhD position at 2024fall, you can find my [CV](https://github.co
 - *2023.02 - present* **Research Intern, Visual Intelligence Lab, HKUST**
 
    Advisor: [Prof. Qifeng Chen](https://cqf.io/).
-   Guided by [Prof. Chenyang Lei](https://chenyanglei.github.io/), I’m exploring a novel approach to automatic image colorization given blackand-white images by imitating the imagination process of human experts
+   Guided by [Prof. Chenyang Lei](https://chenyanglei.github.io/), I’m exploring a novel approach to automatic image colorization given black-and-white images by imitating the imagination process of human experts
 
 - *2022.10 - present* **Undergradute Research Intern, CAD&CG, ZJU**
 
