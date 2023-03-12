@@ -31,6 +31,11 @@ I'm looking for PhD position at 2024fall, you can find my [CV](https://github.co
 - *2023.02*: I'm looking for Summer Research Internship qwq.
 
 # 💻 Research Experience
+- *2023.02 - present* **Research Intern, Visual Intelligence Lab, HKUST**
+
+   Advisor: [Prof. Qifeng Chen](https://cqf.io/).
+   Guided by [Prof. Chenyang Lei](https://chenyanglei.github.io/), I’m exploring a novel approach to automatic image colorization given blackand-white images by imitating the imagination process of human experts
+
 - *2022.10 - present* **Undergradute Research Intern, CAD&CG, ZJU**
 
    Advisor: [Prof. Xiaowei Zhou](http://xzhou.me/).
@@ -41,7 +46,7 @@ I'm looking for PhD position at 2024fall, you can find my [CV](https://github.co
    Advisor: [Prof. Rong Xiong](https://www.researchgate.net/profile/Rong-Xiong) & [Prof. Yue Wang](https://ywang-zju.github.io/). 
    I have finished the Deep Scientific Research Training Program of Chu Kochen Honors College on “Detection and Tracking of Millimeter Wave Radar”, which is awarded as excellent ( 10 in total ). The project focused on exploring how to combine vision sensors(RGB camera) and millimeter-wave radars to increase the accuracy of object detection. 
 
-- *2022.06 - present*  **Student Research Training Project, ZJU**      
+- *2022.06 - 2023.01*  **Student Research Training Project, ZJU**      
    Advisor: [Prof. Wei Jiang](https://person.zju.edu.cn/en/jiangwei). 
    I am participating in a Student Research Training Program(SRTP) on “Cross-domain performance evaluation method of pedestrian re-identification model based on model parameter distribution”, focusing on exploring the relationship between data domain(original & target) and model parameters, realizing online evaluation of model performance, and laying a foundation for the further online model update.
 
