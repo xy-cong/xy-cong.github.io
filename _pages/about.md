@@ -34,7 +34,7 @@ I'm looking for PhD position at 2024fall, you can find my [CV](https://github.co
 - *2023.02 - present* **Research Intern, Visual Intelligence Lab, HKUST**
 
    Advisor: [Prof. Qifeng Chen](https://cqf.io/).
-   Guided by [Prof. Chenyang Lei](https://chenyanglei.github.io/), I’m exploring a novel approach to automatic image colorization given black-and-white images by imitating the imagination process of human experts
+   Guided by [Prof. Chenyang Lei](https://chenyanglei.github.io/), I’m exploring a novel approach to automatic image colorization given black-and-white images by imitating the imagination process of human experts.
 
 - *2022.10 - present* **Undergradute Research Intern, CAD&CG, ZJU**
 
@@ -43,7 +43,7 @@ I'm looking for PhD position at 2024fall, you can find my [CV](https://github.co
 
 - *2021.06 - 2022.06*  **Deep Scientific Research Training Program, Chu Kochen Honors College, ZJU**  
 
-   Advisor: [Prof. Rong Xiong](https://www.researchgate.net/profile/Rong-Xiong) & [Prof. Yue Wang](https://ywang-zju.github.io/). 
+   Advisor: [Prof. Rong Xiong](https://www.researchgate.net/profile/Rong-Xiong). 
    I have finished the Deep Scientific Research Training Program of Chu Kochen Honors College on “Detection and Tracking of Millimeter Wave Radar”, which is awarded as excellent ( 10 in total ). The project focused on exploring how to combine vision sensors(RGB camera) and millimeter-wave radars to increase the accuracy of object detection. 
 
 - *2022.06 - 2023.01*  **Student Research Training Project, ZJU**      
