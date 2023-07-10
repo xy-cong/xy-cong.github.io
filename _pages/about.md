@@ -31,7 +31,12 @@ I'm looking for PhD position at 2024fall, you can find my [CV](https://github.co
 - *2023.02*: I'm looking for Summer Research Internship qwq.
 
 # 💻 Research Experience
-- *2023.02 - present* **Research Intern, Visual Intelligence Lab, HKUST**
+- *2023.06 - present* **Research Intern, The University of Texas at Austin**
+
+   Advisor: [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/).
+   I'm exploring how to reconstruct a deforming object from partial RGB-D scans.
+
+- *2023.03 - present* **Research Intern, Visual Intelligence Lab, HKUST**
 
    Advisor: [Prof. Qifeng Chen](https://cqf.io/).
    Guided by [Prof. Chenyang Lei](https://chenyanglei.github.io/), I’m exploring a novel approach to automatic image colorization given black-and-white images by imitating the imagination process of human experts.
@@ -39,9 +44,9 @@ I'm looking for PhD position at 2024fall, you can find my [CV](https://github.co
 - *2022.10 - present* **Undergradute Research Intern, CAD&CG, ZJU**
 
    Advisor: [Prof. Xiaowei Zhou](http://xzhou.me/).
-   Guided by [Sida Peng](https://pengsida.net/) and [Bojian Wu](https://bojianwu.github.io/), I am exploring how to generate high-quality novel view images of refractive and reflective objects(e.g. transparent objects) by making use of neural implicit 3D representations and differentiable rendering, and how to accurately reconstruct the geometry and reproduce the appearance of glossy and specular objects in a scene with the aid of polarization.
+   Guided by [Sida Peng](https://pengsida.net/) and [Bojian Wu](https://bojianwu.github.io/), I am exploring how to accurately reconstruct the geometry and generate high-quality novel view images of refractive and reflective objects(e.g. transparent objects) by making use of neural implicit 3D representations and differentiable rendering.
 
-- *2021.06 - 2022.06*  **Deep Scientific Research Training Program, Chu Kochen Honors College, ZJU**  
+- *2022.02 - 2022.06*  **Deep Scientific Research Training Program, Chu Kochen Honors College, ZJU**  
 
    Advisor: [Prof. Rong Xiong](https://www.researchgate.net/profile/Rong-Xiong). 
    I have finished the Deep Scientific Research Training Program of Chu Kochen Honors College on “Detection and Tracking of Millimeter Wave Radar”, which is awarded as excellent ( 10 in total ). The project focused on exploring how to combine vision sensors(RGB camera) and millimeter-wave radars to increase the accuracy of object detection. 
@@ -66,7 +71,7 @@ I'm looking for PhD position at 2024fall, you can find my [CV](https://github.co
 
 
 <!-- - **Hard-working...qwq** -->
-- **To be ...**
+- **Incoming ...**
 
 <!-- - Sporthesia: Augmenting Sports Videos Using Natural Language 
 
