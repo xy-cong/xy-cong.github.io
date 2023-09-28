@@ -34,12 +34,12 @@ I'm looking for PhD position starting in Fall 2024, you can find my [CV](https:/
 - *2023.06 - present* **Research Intern, The University of Texas at Austin**
 
    Advisor: [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/).
-   I'm exploring an implicit representation for deformable objects reconstruction from a monocular RGB-D camera. *One submission(first author)* is expected to be coming soon. Look forward to it!
+   I'm exploring an implicit representation for deformable objects reconstruction from a monocular RGB-D camera. **One submission(first author)** is expected to be coming soon. Look forward to it!
 
 - *2023.03 - present* **Research Intern, Visual Intelligence Lab, HKUST**
 
    Advisor: [Prof. Qifeng Chen](https://cqf.io/).
-   Guided by [Prof. Chenyang Lei](https://chenyanglei.github.io/), I’m exploring a novel *diffusion-based* approach for automatic image colorization given black-and-white images by imitating the imagination process of human experts. *One submission(first author)* is expected to be coming soon. Look forward to it!
+   Guided by [Prof. Chenyang Lei](https://chenyanglei.github.io/), I’m exploring a novel *diffusion-based* approach for automatic image colorization given black-and-white images by imitating the imagination process of human experts. **One submission(first author)** is expected to be coming soon. Look forward to it!
 
 - *2022.10 - present* **Undergradute Research Intern, CAD&CG, ZJU**
 
