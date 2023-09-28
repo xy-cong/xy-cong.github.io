@@ -81,7 +81,7 @@ I'm looking for PhD position starting in Fall 2024, you can find my [CV](https:/
 
 # 🎖 Honors and Awards
 - China National Scholarship (by Ministry of Education of China, *Top 0.2%*)
-- Excellence Scholarship of Chu KoChen Honors College (by CKC Honors College, *Top 1%*)
+- Scholarship for Excellence (by CKC Honors College, *Top 1%*)
 - First-prize Scholarship of Zhejiang University(for 2 consecutive years)
 - Zhejiang Provincial Government Scholarship
 - Leading Scholarship of Chu KoChen Honors College
