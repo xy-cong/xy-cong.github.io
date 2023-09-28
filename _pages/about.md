@@ -77,7 +77,7 @@ I'm looking for PhD position starting in Fall 2024, you can find my [CV](https:/
 
 <!-- - Sporthesia: Augmenting Sports Videos Using Natural Language 
 
-  Zhutian Chen, **<u>Qisen Yang</u>**, Xiao Xie, Johanna Beyer, Haijun Xia, Yingcai Wu, and Hanspeter Pfister, **VIS 2022** --> -->
+  Zhutian Chen, **<u>Qisen Yang</u>**, Xiao Xie, Johanna Beyer, Haijun Xia, Yingcai Wu, and Hanspeter Pfister, **VIS 2022** --> 
 
 # 🎖 Honors and Awards
 - China National Scholarship (by Ministry of Education of China, *Top 0.2%*)
