@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Xiaoyan Cong(丛箫言). I am now an undergraduate student at Chu Kochen Honors College & College of Control Science and Engineering, Zhejiang University, majoring in Robotics Engineering. Currently I am supervised by [Prof. Xiaowei Zhou](http://xzhou.me/) at [State Key Laboratory of CAD&CG](http://www.cad.zju.edu.cn/index.html). My research interest lies in the field of 3D & 2D Computer Vision and Robotics, particularly including 3D reconstruction, scene understanding, as well as expanding robots' physical interaction capabilities.
+My name is Xiaoyan Cong(丛箫言). I am a senior undergraduate student at Chu Kochen Honors College & College of Control Science and Engineering, Zhejiang University, majoring in Robotics Engineering and minoring in Mathematics. Currently I am supervised by [Prof. Xiaowei Zhou](http://xzhou.me/) at [State Key Laboratory of CAD&CG](http://www.cad.zju.edu.cn/index.html). My research interest lies in the field of 3D & 2D Computer Vision, Computer Graphics and Robotics, particularly including 3D reconstruction, scene understanding, generative model as well as expanding robots' physical interaction capabilities.
 
-I'm looking for PhD position at 2024fall, you can find my [CV](https://github.com/xy-cong/xy-cong.github.io/raw/main/docs/CV.pdf) here.
+I'm looking for PhD position starting in Fall 2024, you can find my [CV](https://github.com/xy-cong/xy-cong.github.io/raw/main/docs/CV.pdf) here. Feel free to contact me if you have any leads!
 
 # 📖 Educations
 
@@ -28,18 +28,18 @@ I'm looking for PhD position at 2024fall, you can find my [CV](https://github.co
 
 
 # 🔥 News
-- *2023.02*: I'm looking for Summer Research Internship qwq.
+- *2023.10*: I'm looking for PhD position starting in Fall 2024.
 
 # 💻 Research Experience
 - *2023.06 - present* **Research Intern, The University of Texas at Austin**
 
    Advisor: [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/).
-   I'm exploring how to reconstruct a deforming object from partial RGB-D scans.
+   I'm exploring an implicit representation for deformable objects reconstruction from a monocular RGB-D camera. *One submission(first author)* is expected to be coming soon. Look forward to it!
 
 - *2023.03 - present* **Research Intern, Visual Intelligence Lab, HKUST**
 
    Advisor: [Prof. Qifeng Chen](https://cqf.io/).
-   Guided by [Prof. Chenyang Lei](https://chenyanglei.github.io/), I’m exploring a novel approach to automatic image colorization given black-and-white images by imitating the imagination process of human experts.
+   Guided by [Prof. Chenyang Lei](https://chenyanglei.github.io/), I’m exploring a novel *diffusion-based* approach for automatic image colorization given black-and-white images by imitating the imagination process of human experts. *One submission(first author)* is expected to be coming soon. Look forward to it!
 
 - *2022.10 - present* **Undergradute Research Intern, CAD&CG, ZJU**
 
@@ -55,7 +55,7 @@ I'm looking for PhD position at 2024fall, you can find my [CV](https://github.co
    Advisor: [Prof. Wei Jiang](https://person.zju.edu.cn/en/jiangwei). 
    I am participating in a Student Research Training Program(SRTP) on “Cross-domain performance evaluation method of pedestrian re-identification model based on model parameter distribution”, focusing on exploring the relationship between data domain(original & target) and model parameters, realizing online evaluation of model performance, and laying a foundation for the further online model update.
 
-# 📝 Publications 
+<!-- # 📝 Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -75,15 +75,16 @@ I'm looking for PhD position at 2024fall, you can find my [CV](https://github.co
 
 <!-- - Sporthesia: Augmenting Sports Videos Using Natural Language 
 
-  Zhutian Chen, **<u>Qisen Yang</u>**, Xiao Xie, Johanna Beyer, Haijun Xia, Yingcai Wu, and Hanspeter Pfister, **VIS 2022** -->
+  Zhutian Chen, **<u>Qisen Yang</u>**, Xiao Xie, Johanna Beyer, Haijun Xia, Yingcai Wu, and Hanspeter Pfister, **VIS 2022** --> -->
 
 # 🎖 Honors and Awards
-- 2020-2021 China National Scholarship
+- China National Scholarship (by Ministry of Education of China, *Top 0.2%*)
+- Excellence Scholarship of Chu KoChen Honors College (by CKC Honors College, *Top 1%*)
 - First-prize Scholarship of Zhejiang University(for 2 consecutive years)
-- 2021-2022 Zhejiang Provincial Government Scholarship
-- 2020-2021 Leading Scholarship of Chu KoChen Honors College
-- 2021-2022 Excellence Scholarship of Chu KoChen Honors College(Top in College)
-- 2021-2022 Phoenix Special Scholarship
+- Zhejiang Provincial Government Scholarship
+- Leading Scholarship of Chu KoChen Honors College
+- Phoenix Special Scholarship
+- National Second-Class Athletes, Level five in Amateur of Go(Weiqi)
 
 # 🏢Campus Experience
 
