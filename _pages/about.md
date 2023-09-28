@@ -73,7 +73,7 @@ I'm looking for PhD position starting in Fall 2024, you can find my [CV](https:/
 
 
 <!-- - **Hard-working...qwq** -->
-- **Incoming ...**
+<!-- - **Incoming ...** -->
 
 <!-- - Sporthesia: Augmenting Sports Videos Using Natural Language 
 
