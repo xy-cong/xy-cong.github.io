@@ -35,7 +35,7 @@ I'm looking for PhD position starting in Fall 2024, you can find my [CV](https:/
 # 💻 Research Experience
 - *2023.06 - present* **Research Intern, The University of Texas at Austin**
 
-   Advisor: [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/).
+   Advisor: [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/) and [Prof. Li Yi](https://ericyi.github.io/).
    I'm exploring an implicit representation for deformable objects reconstruction from a monocular RGB-D camera. **One submission(first author)** is expected to be coming soon. Look forward to it!
 
 - *2023.03 - present* **Research Intern, Visual Intelligence Lab, HKUST**
