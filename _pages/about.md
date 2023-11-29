@@ -17,20 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Xiaoyan Cong(丛箫言). I am a senior undergraduate student at Chu Kochen Honors College & College of Control Science and Engineering, Zhejiang University, majoring in Robotics Engineering and minoring in Mathematics and "AI+X" Program. During my undergraduate, I am grateful to be advised by [Prof. Xiaowei Zhou](http://xzhou.me/) at [State Key Laboratory of CAD&CG](http://www.cad.zju.edu.cn/index.html) and [Prof. Qifeng Chen](https://cqf.io/) at [Visual Intelligence Lab, HKUST](). I also spent a lovely summer at The University of Texas at Austin, advised by [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/).
+Hi! I'm Xiaoyan Cong(丛箫言), a senior undergraduate student (Sep. 2020 - ) at [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/_t1906/wbout/list.psp) & [College of Control Science and Engineering](http://www.cse.zju.edu.cn/cseenglish/main.htm), [Zhejiang University](https://www.zju.edu.cn/english/), majoring in Robotics Engineering and minoring in Mathematics and “AI+X” Program. During my undergraduate, I am grateful to be advised by [Prof. Xiaowei Zhou](https://www.xzhou.me/), [Prof. Qifeng Chen](https://cqf.io/), and [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/). 
 
-My research interest lies in the field of 3D & 2D Computer Vision, Computer Graphics and Robotics, particularly including 3D reconstruction, scene understanding, generative model as well as expanding robots' physical interaction capabilities.
+My research interest lies in the intersection of 3D Computer Vision and
+Computer Graphics, particularly including neural rendering, reconstruction, and generative AI, as well as their applications in robotics.
 
 I'm looking for PhD position starting in Fall 2024, you can find my [CV](https://github.com/xy-cong/xy-cong.github.io/raw/main/docs/CV.pdf) here. Feel free to contact me if you have any leads!
 
 # 📖 Educations
 
 - *2020.09 - 2024.06*, Undergraduate, Chu Kochen Honors College & College of Control Science and Engineering, Zhejiang Univeristy, Hangzhou. 
-- *2023.02 - 2023.06*, Undergraduate Exchange Student, School of Engineering, The Hong Kong University of Science and Technology, Hong Kong. 
+- *2023.01 - 2023.05*, Undergraduate Exchange Student, School of Engineering, The Hong Kong University of Science and Technology, Hong Kong. 
 
 
 # 🔥 News
-- *2023.10*: I'm looking for PhD position starting in Fall 2024.
+- *2023.11*: Two papers (first author) submitted! Good luck :D
 
 # 💻 Research Experience
 - *2023.06 - present* **Research Intern, The University of Texas at Austin**
@@ -57,7 +58,7 @@ I'm looking for PhD position starting in Fall 2024, you can find my [CV](https:/
    Advisor: [Prof. Wei Jiang](https://person.zju.edu.cn/en/jiangwei). 
    I am participating in a Student Research Training Program(SRTP) on “Cross-domain performance evaluation method of pedestrian re-identification model based on model parameter distribution”, focusing on exploring the relationship between data domain(original & target) and model parameters, realizing online evaluation of model performance, and laying a foundation for the further online model update.
 
-<!-- # 📝 Publications 
+# 📝 Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -71,27 +72,26 @@ I'm looking for PhD position starting in Fall 2024, you can find my [CV](https:/
 </div>
 </div> -->
 
+- 4DRecons: 4D Neural Implicit Deformable Objects Reconstruction from a single RGB-D Camera with Geometrical and Topological Regularizations 
 
-<!-- - **Hard-working...qwq** -->
-<!-- - **Incoming ...** -->
+  **<u>Xiaoyan Cong</u>**, Haitao Yang, Liyan Chen, Kaifeng Zhang, Li Yi, Chandrajit L. Bajaj, and Qixing Huang, **Under Review** 
 
-<!-- - Sporthesia: Augmenting Sports Videos Using Natural Language 
+- Automatic Controllable Colorization by Imagination 
 
-  Zhutian Chen, **<u>Qisen Yang</u>**, Xiao Xie, Johanna Beyer, Haijun Xia, Yingcai Wu, and Hanspeter Pfister, **VIS 2022** --> 
+  **<u>Xiaoyan Cong</u>**, Yue Wu, Qifeng Chen and Chenyang Lei, **Under Review** 
 
-# 🎖 Honors and Awards
-- China National Scholarship (by Ministry of Education of China, *Top 0.2%*)
-- Scholarship for Excellence (by CKC Honors College, *Top 1%*)
-- First-prize Scholarship of Zhejiang University(for 2 consecutive years)
-- Zhejiang Provincial Government Scholarship
-- Leading Scholarship of Chu KoChen Honors College
-- Phoenix Special Scholarship
-- National Second-Class Athletes, Level five in Amateur of Go(Weiqi)
+# 🎖 Selected Honors and Awards
+- *2021* Chinese National Scholarship (by Ministry of Education of the People's Republic of China, *Top 0.2%*)
+- *2022* Excellence Scholarship (by Chu Kochen Honors College, Zhejiang University, *Top 1%*)
+- *2023* Chunhui Scholarship (by College of Control Science and Engineering, Zhejiang University, *Top 1%*)
+- *2020-2022* Zhejiang Provincial Government Scholarship (*Top 2*)
+- *2020-2022* First-prize Scholarship of Zhejiang University (*Top 2%*)
+- *2022* First-prize of Zhejiang Province in the 13th National College Students Mathematics Competition
 
 # 🏢Campus Experience
 
-- *2021-2022* Head of Academic and Development Innovation Department of Chu KoChen College Student Union
-- *2022-present* Member of Go Team of Zhejiang University
+- *2021-2022* Department Head of Chu KoChen College Student Union
+- *2020-present* Member of Go Team of Zhejiang University
 
 
   
