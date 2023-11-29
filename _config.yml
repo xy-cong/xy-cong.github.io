@@ -24,7 +24,7 @@ author:
   name             : "Xiaoyan Cong"
   avatar           : "images/self-photo.jpg"
   bio              : "Zhejiang University"
-  location         : "Hangzhou, Zhejiang, China"
+  location         : # "Hangzhou, Zhejiang, China"
   employer         :
   pubmed           : 
   googlescholar    : 
