@@ -56,7 +56,7 @@ I'm looking for PhD position starting in Fall 2024, you can find my [CV](https:/
    - Proposed a novel method that combines vision sensors (RGB cameras) with millimeter wave radars to increase the accuracy of object detection and tracking in the automatic driving setting.
 
 - *2021.06 - 2022.01*  **Student Research Training Project, ZJU** 
-  
+
    - Advisor: [Prof. Wei Jiang](https://person.zju.edu.cn/en/jiangwei). 
    - Proposed a novel method that evaluates the effectiveness of deep neural networks in cross-domain scenarios.
 
@@ -76,11 +76,15 @@ I'm looking for PhD position starting in Fall 2024, you can find my [CV](https:/
 
 - 4DRecons: 4D Neural Implicit Deformable Objects Reconstruction from a single RGB-D Camera with Geometrical and Topological Regularizations 
 
-  **<u>Xiaoyan Cong</u>**, Haitao Yang, Liyan Chen, Kaifeng Zhang, Li Yi, Chandrajit L. Bajaj, and Qixing Huang, **Under Review** 
+  **<u>Xiaoyan Cong</u>**, Haitao Yang, Liyan Chen, Kaifeng Zhang, Li Yi, Chandrajit L. Bajaj, and Qixing Huang
+  
+  - **Under Review** 
 
 - Automatic Controllable Colorization by Imagination 
 
-  **<u>Xiaoyan Cong</u>**, Yue Wu, Qifeng Chen and Chenyang Lei, **Under Review** 
+  **<u>Xiaoyan Cong</u>**, Yue Wu, Qifeng Chen and Chenyang Lei
+  
+  - **Under Review** 
 
 # 🎖 Selected Honors and Awards
 - *2021* Chinese National Scholarship (by Ministry of Education of the People's Republic of China, *Top 0.2%*)
