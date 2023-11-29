@@ -59,8 +59,8 @@ I'm looking for PhD position starting in Fall 2024, you can find my [CV](https:/
   **<u>Xiaoyan Cong</u>**, Yue Wu, Qifeng Chen and Chenyang Lei
   
   - **Under Review** 
-  
-# 💻 Research Experience
+
+# 💻 Experience
 - *2023.06 - 2023.11* **Research Intern, The University of Texas at Austin**
 
    - Advisor: [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/) and [Prof. Li Yi](https://ericyi.github.io/).
