@@ -34,32 +34,6 @@ I'm looking for PhD position starting in Fall 2024, you can find my [CV](https:/
 - *2023.11*: Two papers (first author) submitted! Good luck :D
 - *2023.06*: Awarded **Dean's List** by Hong Kong University of Science and Technology
 
-# 💻 Research Experience
-- *2023.06 - 2023.11* **Research Intern, The University of Texas at Austin**
-
-   - Advisor: [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/) and [Prof. Li Yi](https://ericyi.github.io/).
-   - Introduced a novel approach 4DRecons that takes a monocular RGB-D sequence of dynamic objects as input and outputs a complete textured deforming reconstruction.
-
-- *2023.02 - 2023.11* **Research Intern, Visual Intelligence Lab, HKUST**
-
-   - Advisor: [Prof. Qifeng Chen](https://cqf.io/) and [Prof. Chenyang Lei](https://chenyanglei.github.io/).
-   - Introduced a novel framework for automatic and controllable colorization, enabling iterative editing and modifications.
-
-- *2022.05 - 2023.02* **Undergradute Research Intern, CAD&CG, ZJU**
-
-   - Advisor: [Prof. Xiaowei Zhou](http://xzhou.me/).
-   - Introduced a novel method for transparent objects reconstruction and novel view synthesis
-
-- *2022.01 - 2022.05*  **Deep Scientific Research Training Program, Chu Kochen Honors College, ZJU**  
-
-   - Advisor: [Prof. Rong Xiong](https://www.researchgate.net/profile/Rong-Xiong) and [Prof. Yue Wang](https://ywang-zju.github.io/). 
-   - Proposed a novel method that combines vision sensors (RGB cameras) with millimeter wave radars to increase the accuracy of object detection and tracking in the automatic driving setting.
-
-- *2021.06 - 2022.01*  **Student Research Training Project, ZJU** 
-
-   - Advisor: [Prof. Wei Jiang](https://person.zju.edu.cn/en/jiangwei). 
-   - Proposed a novel method that evaluates the effectiveness of deep neural networks in cross-domain scenarios.
-
 # 📝 Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -85,6 +59,32 @@ I'm looking for PhD position starting in Fall 2024, you can find my [CV](https:/
   **<u>Xiaoyan Cong</u>**, Yue Wu, Qifeng Chen and Chenyang Lei
   
   - **Under Review** 
+  
+# 💻 Research Experience
+- *2023.06 - 2023.11* **Research Intern, The University of Texas at Austin**
+
+   - Advisor: [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/) and [Prof. Li Yi](https://ericyi.github.io/).
+   - Introduced a novel approach 4DRecons that takes a monocular RGB-D sequence of dynamic objects as input and outputs a complete textured deforming reconstruction.
+
+- *2023.02 - 2023.11* **Research Intern, Visual Intelligence Lab, HKUST**
+
+   - Advisor: [Prof. Qifeng Chen](https://cqf.io/) and [Prof. Chenyang Lei](https://chenyanglei.github.io/).
+   - Introduced a novel framework for automatic and controllable colorization, enabling iterative editing and modifications.
+
+- *2022.05 - 2023.02* **Undergradute Research Intern, CAD&CG, ZJU**
+
+   - Advisor: [Prof. Xiaowei Zhou](http://xzhou.me/).
+   - Introduced a novel method for transparent objects reconstruction and novel view synthesis
+
+- *2022.01 - 2022.05*  **Deep Scientific Research Training Program, Chu Kochen Honors College, ZJU**  
+
+   - Advisor: [Prof. Rong Xiong](https://www.researchgate.net/profile/Rong-Xiong) and [Prof. Yue Wang](https://ywang-zju.github.io/). 
+   - Proposed a novel method that combines vision sensors (RGB cameras) with millimeter wave radars to increase the accuracy of object detection and tracking in the automatic driving setting.
+
+- *2021.06 - 2022.01*  **Student Research Training Project, ZJU** 
+
+   - Advisor: [Prof. Wei Jiang](https://person.zju.edu.cn/en/jiangwei). 
+   - Proposed a novel method that evaluates the effectiveness of deep neural networks in cross-domain scenarios.
 
 # 🎖 Selected Honors and Awards
 - *2021* Chinese National Scholarship (by Ministry of Education of the People's Republic of China, *Top 0.2%*)
