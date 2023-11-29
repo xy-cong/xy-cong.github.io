@@ -27,36 +27,38 @@ I'm looking for PhD position starting in Fall 2024, you can find my [CV](https:/
 # 📖 Educations
 
 - *2020.09 - 2024.06*, Undergraduate, Chu Kochen Honors College & College of Control Science and Engineering, Zhejiang Univeristy, Hangzhou. 
-- *2023.01 - 2023.05*, Undergraduate Exchange Student, School of Engineering, The Hong Kong University of Science and Technology, Hong Kong. 
+- *2023.01 - 2023.05*, Undergraduate Exchange Student, School of Engineering, Hong Kong University of Science and Technology, Hong Kong. 
 
 
 # 🔥 News
 - *2023.11*: Two papers (first author) submitted! Good luck :D
+- *2023.06*: Awarded **Dean's List** by Hong Kong University of Science and Technology
 
 # 💻 Research Experience
-- *2023.06 - present* **Research Intern, The University of Texas at Austin**
+- *2023.06 - 2023.11* **Research Intern, The University of Texas at Austin**
 
-   Advisor: [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/) and [Prof. Li Yi](https://ericyi.github.io/).
-   I'm exploring an implicit representation for deformable objects reconstruction from a monocular RGB-D camera. **One submission(first author)** is expected to be coming soon. Look forward to it!
+   - Advisor: [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/) and [Prof. Li Yi](https://ericyi.github.io/).
+   - Introduced a novel approach 4DRecons that takes a monocular RGB-D sequence of dynamic objects as input and outputs a complete textured deforming reconstruction.
 
-- *2023.03 - present* **Research Intern, Visual Intelligence Lab, HKUST**
+- *2023.02 - 2023.11* **Research Intern, Visual Intelligence Lab, HKUST**
 
-   Advisor: [Prof. Qifeng Chen](https://cqf.io/).
-   Guided by [Prof. Chenyang Lei](https://chenyanglei.github.io/), I’m exploring a novel *diffusion-based* approach for automatic image colorization given black-and-white images by imitating the imagination process of human experts. **One submission(first author)** is expected to be coming soon. Look forward to it!
+   - Advisor: [Prof. Qifeng Chen](https://cqf.io/) and [Prof. Chenyang Lei](https://chenyanglei.github.io/).
+   - Introduced a novel framework for automatic and controllable colorization, enabling iterative editing and modifications.
 
-- *2022.10 - present* **Undergradute Research Intern, CAD&CG, ZJU**
+- *2022.05 - 2023.02* **Undergradute Research Intern, CAD&CG, ZJU**
 
-   Advisor: [Prof. Xiaowei Zhou](http://xzhou.me/).
-   Guided by [Sida Peng](https://pengsida.net/) and [Bojian Wu](https://bojianwu.github.io/), I am exploring how to accurately reconstruct the geometry and generate high-quality novel view images of refractive and reflective objects(e.g. transparent objects) by making use of neural implicit 3D representations and differentiable rendering.
+   - Advisor: [Prof. Xiaowei Zhou](http://xzhou.me/).
+   - Introduced a novel method for transparent objects reconstruction and novel view synthesis
 
-- *2022.02 - 2022.06*  **Deep Scientific Research Training Program, Chu Kochen Honors College, ZJU**  
+- *2022.01 - 2022.05*  **Deep Scientific Research Training Program, Chu Kochen Honors College, ZJU**  
 
-   Advisor: [Prof. Rong Xiong](https://www.researchgate.net/profile/Rong-Xiong). 
-   I have finished the Deep Scientific Research Training Program of Chu Kochen Honors College on “Detection and Tracking of Millimeter Wave Radar”, which is awarded as excellent ( 10 in total ). The project focused on exploring how to combine vision sensors(RGB camera) and millimeter-wave radars to increase the accuracy of object detection. 
+   - Advisor: [Prof. Rong Xiong](https://www.researchgate.net/profile/Rong-Xiong) and [Prof. Yue Wang](https://ywang-zju.github.io/). 
+   - Proposed a novel method that combines vision sensors (RGB cameras) with millimeter wave radars to increase the accuracy of object detection and tracking in the automatic driving setting.
 
-- *2022.06 - 2023.01*  **Student Research Training Project, ZJU**      
-   Advisor: [Prof. Wei Jiang](https://person.zju.edu.cn/en/jiangwei). 
-   I am participating in a Student Research Training Program(SRTP) on “Cross-domain performance evaluation method of pedestrian re-identification model based on model parameter distribution”, focusing on exploring the relationship between data domain(original & target) and model parameters, realizing online evaluation of model performance, and laying a foundation for the further online model update.
+- *2021.06 - 2022.01*  **Student Research Training Project, ZJU** 
+  
+   - Advisor: [Prof. Wei Jiang](https://person.zju.edu.cn/en/jiangwei). 
+   - Proposed a novel method that evaluates the effectiveness of deep neural networks in cross-domain scenarios.
 
 # 📝 Publications 
 

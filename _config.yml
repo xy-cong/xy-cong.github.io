@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiaoyan's Page"
-description              : "Undergraduate from Zhejiang University. Focus on 3D/2D Computer Vision, Computer Graphics, Robotics."
+title                    : "Xiaoyan Cong"
+description              : "Senior undergraduate from Zhejiang University. Focus on 3D Computer Vision, Computer Graphics, Robotics and Generative AI."
 repository               : "xy-cong/xy-cong.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -40,7 +40,7 @@ author:
   github           : "xy-cong"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "_xy_cong_"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "xiaoyan_cong"
   vine             :
   weibo            :
   xing             :
