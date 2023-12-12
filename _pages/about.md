@@ -31,7 +31,7 @@ I'm looking for PhD position starting in Fall 2024, you can find my [CV](https:/
 
 
 # 🔥 News
-- *2023.11*: Two papers (first author) submitted! Good luck :D
+- *2023.11*: Two papers **(first author)** submitted! Good luck :D
 - *2023.06*: Awarded **Dean's List** by Hong Kong University of Science and Technology
 
 # 📝 Publications 
