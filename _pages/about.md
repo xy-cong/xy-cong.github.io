@@ -60,7 +60,7 @@ I'm looking for PhD position starting in Fall 2024, you can find my [CV](https:/
   
   - **Under Review**, [Paper: Manuscript](https://drive.google.com/file/d/1Tg6WKaobWze_7DJy0PUh93s_DpNOTZZs/view?usp=drive_link) (Please feel free to click to view :D)
 
-# 💻 Experience
+# 💻 Research Experience
 - *2023.06 - 2023.11* **Research Intern, The University of Texas at Austin**
 
    - Advisor: [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/) and [Prof. Li Yi](https://ericyi.github.io/).
