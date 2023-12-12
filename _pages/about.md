@@ -94,14 +94,14 @@ I'm looking for PhD position starting in Fall 2024, you can find my [CV](https:/
 - *2020-2022* First-prize Scholarship of Zhejiang University (*Top 2%*)
 - *2022* First-prize of Zhejiang Province in the 13th National College Students Mathematics Competition
 
-# 🏢Campus Experience
+# 🏢 Campus Experience
 
 - *2021-2022* Department Head of Chu KoChen College Student Union
 - *2022-2023* Volunteer of the 19th Asian Games and 19th Asian Para Games
 - *2020-present* Member of Go Team of Zhejiang University
 
 
-# 💡Miscellaneous
+# 💡 Miscellaneous
 - National Second-level Athletes of [Go (Weiqi)](https://en.wikipedia.org/wiki/Go_(game))
    - I enjoy the variable possibilities between the black and white chess. This kind of pure competition really attracts me!
    - Feel free to contact me if you are looking for a fun Go game!😀 

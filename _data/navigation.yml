@@ -9,7 +9,7 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Experience"
+  - title: "Research Experience"
     url: "/#-research-experience"
 
   - title: "Publications"
@@ -21,4 +21,5 @@ main:
   - title: "Campus Experience"
     url: "/#-campus-experience"
 
-  
+  - title: "Miscellaneous"
+    url: "/#-miscellaneous"
