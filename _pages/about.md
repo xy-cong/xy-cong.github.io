@@ -52,13 +52,13 @@ I'm looking for PhD position starting in Fall 2024, you can find my [CV](https:/
 
   **<u>Xiaoyan Cong</u>**, Haitao Yang, Liyan Chen, Kaifeng Zhang, Li Yi, Chandrajit L. Bajaj, and Qixing Huang
   
-  - **Under Review** 
+  - **Under Review**, [Paper: Manuscript](https://drive.google.com/file/d/1j_XthPN-grfuUBrwIzoxW7o4XQvUYYn6/view?usp=drive_link) (Please feel free to click to view :D)
 
 - Automatic Controllable Colorization by Imagination 
 
   **<u>Xiaoyan Cong</u>**, Yue Wu, Qifeng Chen and Chenyang Lei
   
-  - **Under Review** 
+  - **Under Review**, [Paper: Manuscript](https://drive.google.com/file/d/1Tg6WKaobWze_7DJy0PUh93s_DpNOTZZs/view?usp=drive_link) (Please feel free to click to view :D)
 
 # 💻 Experience
 - *2023.06 - 2023.11* **Research Intern, The University of Texas at Austin**
@@ -97,7 +97,15 @@ I'm looking for PhD position starting in Fall 2024, you can find my [CV](https:/
 # 🏢Campus Experience
 
 - *2021-2022* Department Head of Chu KoChen College Student Union
+- *2022-2023* Volunteer of the 19th Asian Games and 19th Asian Para Games
 - *2020-present* Member of Go Team of Zhejiang University
 
 
-  
+# 💡Miscellaneous
+- National Second-level Athletes of [Go (Weiqi)](https://en.wikipedia.org/wiki/Go_(game))
+   - I enjoy the variable possibilities between the black and white chess. This kind of pure competition really attracts me!
+   - Feel free to contact me if you are looking for a fun Go game!😀 
+- Saxophone (10-level, Top in Amateur), Piano (8-level)
+   - I love all the stuff related to music, such as listening, singing, and playing instruments.
+- Sports Fan
+   - I'm a big fan of basketball, ping-pong, tennis, and swimming.
