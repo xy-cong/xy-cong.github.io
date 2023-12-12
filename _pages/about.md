@@ -86,7 +86,7 @@ I'm looking for PhD position starting in Fall 2024, you can find my [CV](https:/
    - Advisor: [Prof. Wei Jiang](https://person.zju.edu.cn/en/jiangwei). 
    - Proposed a novel method that evaluates the effectiveness of deep neural networks in cross-domain scenarios.
 
-# 🎖 Selected Honors and Awards
+# 🎖 Honors and Awards
 - *2021* Chinese National Scholarship (by Ministry of Education of the People's Republic of China, *Top 0.2%*)
 - *2022* Excellence Scholarship (by Chu Kochen Honors College, Zhejiang University, *Top 1%*)
 - *2023* Chunhui Scholarship (by College of Control Science and Engineering, Zhejiang University, *Top 1%*)
