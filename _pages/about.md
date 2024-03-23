@@ -52,13 +52,13 @@ I'm looking for PhD position starting in Fall 2024, you can find my [CV](https:/
 
   **<u>Xiaoyan Cong</u>**, Haitao Yang, Liyan Chen, Kaifeng Zhang, Li Yi, Chandrajit L. Bajaj, and Qixing Huang
   
-  - **Under Review**, [Paper: Manuscript](https://drive.google.com/file/d/1j_XthPN-grfuUBrwIzoxW7o4XQvUYYn6/view?usp=drive_link) (Please feel free to click to view :D)
+  - **Under Review**
 
 - Automatic Controllable Colorization by Imagination 
 
   **<u>Xiaoyan Cong</u>**, Yue Wu, Qifeng Chen and Chenyang Lei
   
-  - **Under Review**, [Paper: Manuscript](https://drive.google.com/file/d/1Tg6WKaobWze_7DJy0PUh93s_DpNOTZZs/view?usp=drive_link) (Please feel free to click to view :D)
+  - Conference on Computer Vision and Pattern Recognition (CVPR), 2024
 
 # 💻 Research Experience
 - *2023.06 - 2023.11* **Research Intern, The University of Texas at Austin**
