@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Xiaoyan Cong(丛箫言), a senior undergraduate student (Sep. 2020 - ) at [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/_t1906/wbout/list.psp) & [College of Control Science and Engineering](http://www.cse.zju.edu.cn/cseenglish/main.htm), [Zhejiang University](https://www.zju.edu.cn/english/), majoring in Robotics Engineering and minoring in Mathematics and “AI+X” Program. During my undergraduate, I am grateful to be advised by [Prof. Xiaowei Zhou](https://www.xzhou.me/), [Prof. Qifeng Chen](https://cqf.io/), [Prof. Li Yi](https://ericyi.github.io/), and [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/). 
+Hi! I'm Xiaoyan Cong(丛箫言), an incoming CS PhD at Brown University, advised by [Prof. Srinath Sridhar](https://cs.brown.edu/people/ssrinath/). I received my Bachelor's degree with honors at [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/_t1906/wbout/list.psp), majoring in Robotics Engineering and minoring in Mathematics and “AI+X” Program. During my undergraduate, I am grateful to be advised by [Prof. Xiaowei Zhou](https://www.xzhou.me/), [Prof. Qifeng Chen](https://cqf.io/), [Prof. Li Yi](https://ericyi.github.io/), and [Prof. Qixing Huang](https://www.cs.utexas.edu/~huangqx/). 
 
 My research interest lies in the intersection of 3D Computer Vision and
 Computer Graphics, particularly including neural rendering, reconstruction, and generative AI, as well as their applications in robotics.
-
-I'm looking for PhD position starting in Fall 2024, you can find my [CV](https://github.com/xy-cong/xy-cong.github.io/raw/main/docs/CV.pdf) here. Feel free to contact me if you have any leads!
+<!-- 
+I'm looking for PhD position starting in Fall 2024, you can find my [CV](https://github.com/xy-cong/xy-cong.github.io/raw/main/docs/CV.pdf) here. Feel free to contact me if you have any leads! -->
 
 # 📖 Educations
 
